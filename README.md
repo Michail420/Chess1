@@ -12,4 +12,4 @@
 ## Cкриншоты
 ![Иллюстрация к проекту](https://github.com/Michail420/analytic-hierarchy/blob/main/dgcvbkljx.PNG)
 ## Описание среды 
-Программа написана на языке Python в среде Spyder. Следует открывать файл analytic-hierarchy.py. В нем будет находиться программа.
+## Программа написана на языке Python в среде Spyder. Следует открывать файл analytic-hierarchy.py. В нем будет находиться программа.
